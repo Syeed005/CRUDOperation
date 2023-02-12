@@ -1,0 +1,33 @@
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\Dapper.StrongName.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\Dapper.StrongName.xml
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.pdb
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\DataAccess.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\DataAccess.pdb
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\Dapper.StrongName.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\System.Data.SqlClient.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\Dapper.StrongName.xml
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\bin\Debug\System.Data.SqlClient.xml
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\DataAccess\obj\Debug\DataAccess.pdb
+E:\CRUDOperationSolution\DataAccess\bin\Debug\DataAccess.dll
+E:\CRUDOperationSolution\DataAccess\bin\Debug\DataAccess.pdb
+E:\CRUDOperationSolution\DataAccess\bin\Debug\Dapper.StrongName.dll
+E:\CRUDOperationSolution\DataAccess\bin\Debug\System.Data.SqlClient.dll
+E:\CRUDOperationSolution\DataAccess\bin\Debug\Dapper.StrongName.xml
+E:\CRUDOperationSolution\DataAccess\bin\Debug\System.Data.SqlClient.xml
+E:\CRUDOperationSolution\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+E:\CRUDOperationSolution\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+E:\CRUDOperationSolution\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+E:\CRUDOperationSolution\DataAccess\obj\Debug\DataAccess.dll
+E:\CRUDOperationSolution\DataAccess\obj\Debug\DataAccess.pdb

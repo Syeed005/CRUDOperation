@@ -1,0 +1,24 @@
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\CRUD Operation.exe.config
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\CRUD Operation.exe
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\CRUD Operation.pdb
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.dll
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.dll
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.pdb
+E:\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.xml
+E:\MinimalAPISolution\MinimalAPIProject\obj\Debug\CRUD Operation.csproj.AssemblyReference.cache
+E:\MinimalAPISolution\MinimalAPIProject\obj\Debug\CRUD Operation.csproj.CoreCompileInputs.cache
+E:\MinimalAPISolution\MinimalAPIProject\obj\Debug\CRUD Operation.csproj.CopyComplete
+E:\MinimalAPISolution\MinimalAPIProject\obj\Debug\CRUD Operation.exe
+E:\MinimalAPISolution\MinimalAPIProject\obj\Debug\CRUD Operation.pdb
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\CRUDOperation.exe.config
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\CRUDOperation.exe
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\CRUDOperation.pdb
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\DataAccess.dll
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\Dapper.StrongName.dll
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\DataAccess.pdb
+E:\CRUDOperationSolution\CRUDOperation\bin\Debug\Dapper.StrongName.xml
+E:\CRUDOperationSolution\CRUDOperation\obj\Debug\CRUD Operation.csproj.AssemblyReference.cache
+E:\CRUDOperationSolution\CRUDOperation\obj\Debug\CRUD Operation.csproj.CoreCompileInputs.cache
+E:\CRUDOperationSolution\CRUDOperation\obj\Debug\CRUD Operation.csproj.CopyComplete
+E:\CRUDOperationSolution\CRUDOperation\obj\Debug\CRUDOperation.exe
+E:\CRUDOperationSolution\CRUDOperation\obj\Debug\CRUDOperation.pdb

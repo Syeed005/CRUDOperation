@@ -1,0 +1,24 @@
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.exe.config
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.exe
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.pdb
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.AssemblyReference.cache
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.exe
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.pdb
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.dll
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.pdb
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.xml
+C:\Users\Syeedur Rahman\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.CopyComplete
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.exe.config
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.exe
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\MinimalAPIProject.pdb
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.dll
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\DataAccess.pdb
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\bin\Debug\Dapper.StrongName.xml
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.AssemblyReference.cache
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.CoreCompileInputs.cache
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.csproj.CopyComplete
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.exe
+E:\Documents\OneDrive\Code\Repos\Lab\MinimalAPISolution\MinimalAPIProject\obj\Debug\MinimalAPIProject.pdb
